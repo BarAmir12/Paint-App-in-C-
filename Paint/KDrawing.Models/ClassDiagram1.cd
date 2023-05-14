@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KDrawing.Models.MultiPointShape" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIACggAAAAIAAQAAEAAAEAAAAAACAAAAABA=</HashCode>
+      <FileName>Classes\MultiPointShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.MyCircle" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAABABA=</HashCode>
+      <FileName>Classes\MyCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.MyCursor" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAEAAABAAAAAQACQAAAAAAA=</HashCode>
+      <FileName>Classes\MyCursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.MyCurve" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAACAAABARA=</HashCode>
+      <FileName>Classes\MyCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.MyEllipse" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAABKAIAAAgAAAAIAAQAQEACAEAAAAAADAAgBAFA=</HashCode>
+      <FileName>Classes\MyEllipse.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KDrawing.Models.MyFreehand" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAACAAABABA=</HashCode>
+      <FileName>Classes\MyFreehand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.MyRectangle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAKCIAAAgAAAAIAAUAQEACAEAAAAAACAAgBAFA=</HashCode>
+      <FileName>Classes\MyRectangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KDrawing.Models.MyShape" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAIAAEgAAAAIAAQQAEAAIEAAAAAACgAAAEBA=</HashCode>
+      <FileName>Classes\MyShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.MySquare" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABABA=</HashCode>
+      <FileName>Classes\MySquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.ShapeData" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Classes\ShapeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.Utilities" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAUIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.XmlColor" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAQAAAAAAAAAAEAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\XmlColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDrawing.Models.Properties.Resources" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAABEAAAAQAAAQEAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="KDrawing.Models.Interfaces.IFillableShape" Collapsed="true">
+    <Position X="18.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Interfaces\IFillableShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="KDrawing.Enums.Direction" Collapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Enums\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KDrawing.Models.Enums.DrawingMode" Collapsed="true">
+    <Position X="20.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\DrawingMode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KDrawing.Models.Enums.DrawingStage" Collapsed="true">
+    <Position X="22.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAABAAAAEAAAAAAAAAAAAABAAABAAAAA=</HashCode>
+      <FileName>Enums\DrawingStage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KDrawing.Models.Enums.ShapeType" Collapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAggAIAAgAAgAACAAAA=</HashCode>
+      <FileName>Enums\ShapeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
